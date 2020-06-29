@@ -26,9 +26,12 @@ This high-level diagram shows the different flows and roles that EasyCLA support
 
 How you interact with EasyCLA depends on your role. EasyCLA supports the following roles in its workflow:
 
-* Project Manager
-* Contributor
-* 
+* [Project Manager](./#project-manager)
+* [Contributor](./#contributor)
+* [Corporate CLA \(CCLA\) manager](./#corporate-cla-manager)
+* [Corporate CLA \(CCLA\) manager designee](./#corporate-cla-manager-designee)
+* [Corporate CLA \(CCLA\) signatory](./#corporate-cla-signatory-1)
+
 ### Project Manager <a id="project-manager"></a>
 
 You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console.
@@ -62,12 +65,7 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authori
 * [Add Contributors to Approved List](../ccla-managers-and-ccla-signatories/approve-contributors.md)
 * [Add or Delete CLA Managers](../ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
 
-### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
-
-You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
-
-* ​[Sign a Corporate CLA on behalf of the company](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md)—as a signatory you must have legal authority to sign documents on behalf of the company.
-* [Review and sign a Corporate CLA by request](../ccla-managers-and-ccla-signatories/review-and-sign-a-corporate-cla-by-request.md).
+###  <a id="corporate-cla-signatory"></a>
 
 ### Corporate CLA Manager Designee
 
@@ -77,4 +75,11 @@ You become a CLA manager designee when you, as a corporate contributor, tries to
 
 * [Contribute to a GitHub Company Project](../contributors/contribute-to-a-github-company-project.md)
 * [Contribute to a Gerrit Company Project](../contributors/contribute-to-a-gerrit-project.md)
+
+### Corporate CLA Signatory <a id="corporate-cla-signatory"></a>
+
+You are a _Corporate CLA signatory_ \(CCLA signatory\) if you are authorized to sign contracts, such as the project’s CLA, on behalf of the company. With EasyCLA, you can:
+
+* ​[Sign a Corporate CLA on behalf of the company](../ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md)—as a signatory you must have legal authority to sign documents on behalf of the company.
+* [Review and sign a Corporate CLA by request](../ccla-managers-and-ccla-signatories/review-and-sign-a-corporate-cla-by-request.md).
 
