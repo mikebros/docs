@@ -1,6 +1,6 @@
 # Contribute to a GitHub Company Project
 
-As a corporate \(employee\) contributor to an open-source project, you create a pull request in GitHub to inform code maintainers about changes made to the code. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement in order for your contribution to be accepted into the company. During the pull request process, your CLA status is verified.
+As a corporate \(employee\) contributor to an open-source project, you create a pull request in GitHub to inform code maintainers about changes made to the code. If any of your contributions to the project are created as part of your employment, the work may not belong to you—it may be owned by your employer. In that case, the CCLA signatory represents the employer \(company\) for legal reasons, and signs the Corporate Contributor Licensing Agreement \(CCLA\) in order for your contribution to be accepted by the company. During the pull request process, your CLA status is verified.
 
 When all CLA management set-up tasks are complete and your CCLA signatory has signed a Corporate CLA, you simply confirm your association to the company during your first pull request. Then you can continue with your pull request. Your subsequent contributions will not require association confirmations.
 
@@ -17,26 +17,30 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 ![CLA GitHub Company Contributor Fail](../../../.gitbook/assets/cla-github-company-contributor-fail.png)
 
-4. Click **Please click here to be authorized**.  
+4. Click ![](../../../.gitbook/assets/cla-not-signed-button.png)  or **Please click here to be authorized**.  
 **Note:** The Authorize CommunityBridge: EasyCLA dialog appears.
 
 5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla.png)​
 
-6. The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
+The CLA Contributor Console appears.
 
-![CLA GitHub Select Company or Individual](../../../.gitbook/assets/cla-github-select-company-or-individual.png)
+![ccla flow](../../../.gitbook/assets/cla-ccla-flow.png)
 
-7. Select **Company**.  
-**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
+6. Click **Proceed as a Corporate Contributor**.   
+**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing your work on behalf of a company.
+
+7. On **Select Organization** window, type organization name in the filed, select the organization from the drop-down list, and click **Proceed**.
+
+![ccla flow](../../../.gitbook/assets/select-organization.png)
 
 8. Continue:
 
-* [If a Confirmation of Association with statement appears](contribute-to-a-github-company-project.md#if-a-confirmation-of-association-with-statement-appears)
-* [If the Select Company dialog appears](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears)
+* If a Company has signed CLA
+* If 
 
-## If a Confirmation of Association with statement appears <a id="if-a-confirmation-of-association-with-statement-appears"></a>
+## If a Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
 
 1. Read the Confirmation of Association statement and mark the agreement checkbox. Click **CONTINUE**.
 
