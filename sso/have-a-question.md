@@ -16,6 +16,10 @@ You will see two options:
 3. Complete the form fields and click **Send**.  
 You will receive a confirmation email that includes a ticket number and your request description.
 
+**This form doesn't work. I get the error "Message request not sent" when trying to contact you.
+
+**The reason I'm trying to contact you is I'm trying to register for API Spec conference but can't get past the log in. When I register with my work email, I never get the confirmation email so can't complete the registration. Using social login I get "An error occurred!" when entering user name.
+
 4. Clicking **Read documentation** takes you to helpful documentation on https://docs.linuxfoundation.org/sso
 
 
